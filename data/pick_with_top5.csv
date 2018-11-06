@@ -1,0 +1,1804 @@
+type,hero_input,hero_copick,pick_rate
+against,Abaddon,Wraith King,1
+against,Abaddon,Alchemist,0.5
+against,Abaddon,Clinkz,0.5
+against,Abaddon,Dark Willow,0.5
+against,Abaddon,Dragon Knight,0.5
+against,Abaddon,Lich,0.5
+against,Abaddon,Phoenix,0.5
+against,Abaddon,Silencer,0.5
+against,Abaddon,Templar Assassin,0.5
+with,Abaddon,Clinkz,0.5
+with,Abaddon,Dragon Knight,0.5
+with,Abaddon,Earthshaker,0.5
+with,Abaddon,Io,0.5
+with,Abaddon,Natures Prophet,0.5
+with,Abaddon,Shadow Fiend,0.5
+with,Abaddon,Tiny,0.5
+with,Abaddon,Weaver,0.5
+against,Alchemist,Tiny,0.34615384615384615
+against,Alchemist,Winter Wyvern,0.3076923076923077
+against,Alchemist,Phantom Lancer,0.2692307692307693
+against,Alchemist,Enchantress,0.23076923076923078
+against,Alchemist,Vengeful Spirit,0.23076923076923078
+with,Alchemist,Vengeful Spirit,0.42307692307692313
+with,Alchemist,Ursa,0.3076923076923077
+with,Alchemist,Weaver,0.3076923076923077
+with,Alchemist,Dark Willow,0.19230769230769232
+with,Alchemist,Phoenix,0.19230769230769232
+against,Ancient Apparition,Necrophos,0.6666666666666666
+against,Ancient Apparition,Winter Wyvern,0.6666666666666666
+against,Ancient Apparition,Wraith King,0.6666666666666666
+against,Ancient Apparition,Dark Willow,0.3333333333333333
+against,Ancient Apparition,Drow Ranger,0.3333333333333333
+against,Ancient Apparition,Earth Spirit,0.3333333333333333
+against,Ancient Apparition,Enchantress,0.3333333333333333
+against,Ancient Apparition,Huskar,0.3333333333333333
+against,Ancient Apparition,Oracle,0.3333333333333333
+against,Ancient Apparition,Pangolier,0.3333333333333333
+against,Ancient Apparition,Templar Assassin,0.3333333333333333
+against,Ancient Apparition,Windranger,0.3333333333333333
+with,Ancient Apparition,Tiny,1
+with,Ancient Apparition,Clinkz,0.6666666666666666
+with,Ancient Apparition,Dark Willow,0.6666666666666666
+with,Ancient Apparition,Bloodseeker,0.3333333333333333
+with,Ancient Apparition,Crystal Maiden,0.3333333333333333
+with,Ancient Apparition,Lina,0.3333333333333333
+with,Ancient Apparition,Phantom Lancer,0.3333333333333333
+with,Ancient Apparition,Winter Wyvern,0.3333333333333333
+against,Anti-Mage,Chen,1
+against,Anti-Mage,Storm Spirit,1
+against,Anti-Mage,Tiny,1
+against,Anti-Mage,Windranger,1
+against,Anti-Mage,Wraith King,1
+with,Anti-Mage,Dark Willow,1
+with,Anti-Mage,Natures Prophet,1
+with,Anti-Mage,Undying,1
+with,Anti-Mage,Ursa,1
+against,Arc Warden,Necrophos,0.5
+against,Arc Warden,Storm Spirit,0.5
+against,Arc Warden,Enchantress,0.375
+against,Arc Warden,Drow Ranger,0.25
+against,Arc Warden,Gyrocopter,0.25
+against,Arc Warden,Lion,0.25
+against,Arc Warden,Natures Prophet,0.25
+against,Arc Warden,Terrorblade,0.25
+against,Arc Warden,Weaver,0.25
+against,Arc Warden,Windranger,0.25
+with,Arc Warden,Silencer,0.375
+with,Arc Warden,Crystal Maiden,0.25
+with,Arc Warden,Earthshaker,0.25
+with,Arc Warden,Natures Prophet,0.25
+with,Arc Warden,Bloodseeker,0.125
+with,Arc Warden,Centaur Warrunner,0.125
+with,Arc Warden,Dark Willow,0.125
+with,Arc Warden,Dragon Knight,0.125
+with,Arc Warden,Elder Titan,0.125
+with,Arc Warden,Invoker,0.125
+with,Arc Warden,Legion Commander,0.125
+with,Arc Warden,Lina,0.125
+with,Arc Warden,Lycan,0.125
+with,Arc Warden,Mirana,0.125
+with,Arc Warden,Necrophos,0.125
+with,Arc Warden,Nyx Assassin,0.125
+with,Arc Warden,Ogre Magi,0.125
+with,Arc Warden,Oracle,0.125
+with,Arc Warden,Pugna,0.125
+with,Arc Warden,Rubick,0.125
+with,Arc Warden,Spectre,0.125
+with,Arc Warden,Tiny,0.125
+with,Arc Warden,Tusk,0.125
+with,Arc Warden,Undying,0.125
+with,Arc Warden,Ursa,0.125
+with,Arc Warden,Windranger,0.125
+with,Arc Warden,Wraith King,0.125
+against,Axe,Morphling,1
+against,Axe,Centaur Warrunner,0.6666666666666666
+against,Axe,Bloodseeker,0.3333333333333333
+against,Axe,Brewmaster,0.3333333333333333
+against,Axe,Dark Willow,0.3333333333333333
+against,Axe,Enchantress,0.3333333333333333
+against,Axe,Io,0.3333333333333333
+against,Axe,Lina,0.3333333333333333
+against,Axe,Pugna,0.3333333333333333
+against,Axe,Shadow Shaman,0.3333333333333333
+against,Axe,Silencer,0.3333333333333333
+against,Axe,Tusk,0.3333333333333333
+with,Axe,Gyrocopter,0.6666666666666666
+with,Axe,Io,0.6666666666666666
+with,Axe,Chen,0.3333333333333333
+with,Axe,Dark Willow,0.3333333333333333
+with,Axe,Invoker,0.3333333333333333
+with,Axe,Lina,0.3333333333333333
+with,Axe,Phantom Lancer,0.3333333333333333
+with,Axe,Rubick,0.3333333333333333
+with,Axe,Templar Assassin,0.3333333333333333
+with,Axe,Undying,0.3333333333333333
+against,Bane,Vengeful Spirit,0.37142857142857144
+against,Bane,Mirana,0.2285714285714286
+against,Bane,Necrophos,0.22857142857142856
+against,Bane,Dark Willow,0.2
+against,Bane,Tiny,0.2
+with,Bane,Mirana,0.34285714285714286
+with,Bane,Tiny,0.34285714285714286
+with,Bane,Io,0.17142857142857143
+with,Bane,Ursa,0.17142857142857143
+with,Bane,Dark Willow,0.14285714285714285
+with,Bane,Dragon Knight,0.14285714285714285
+with,Bane,Gyrocopter,0.14285714285714285
+with,Bane,Kunkka,0.14285714285714285
+with,Bane,Spectre,0.14285714285714285
+against,Batrider,Chen,0.2727272727272727
+against,Batrider,Necrophos,0.2727272727272727
+against,Batrider,Tiny,0.2727272727272727
+against,Batrider,Bloodseeker,0.18181818181818182
+against,Batrider,Clinkz,0.18181818181818182
+against,Batrider,Crystal Maiden,0.18181818181818182
+against,Batrider,Dark Willow,0.18181818181818182
+against,Batrider,Earthshaker,0.18181818181818182
+against,Batrider,Ember Spirit,0.18181818181818182
+against,Batrider,Natures Prophet,0.18181818181818182
+against,Batrider,Silencer,0.18181818181818182
+against,Batrider,Storm Spirit,0.18181818181818182
+against,Batrider,Vengeful Spirit,0.18181818181818182
+against,Batrider,Windranger,0.18181818181818182
+against,Batrider,Wraith King,0.18181818181818182
+against,Batrider,Zeus,0.18181818181818182
+with,Batrider,Earthshaker,0.36363636363636365
+with,Batrider,Vengeful Spirit,0.36363636363636365
+with,Batrider,Broodmother,0.2727272727272727
+with,Batrider,Lina,0.2727272727272727
+with,Batrider,Silencer,0.2727272727272727
+with,Batrider,Terrorblade,0.2727272727272727
+against,Beastmaster,Chen,1
+against,Beastmaster,Invoker,1
+against,Beastmaster,Phoenix,1
+against,Beastmaster,Tiny,1
+against,Beastmaster,Wraith King,1
+with,Beastmaster,Gyrocopter,1
+with,Beastmaster,Io,1
+with,Beastmaster,Leshrac,1
+with,Beastmaster,Lina,1
+against,Bloodseeker,Earthshaker,0.25806451612903225
+against,Bloodseeker,Winter Wyvern,0.22580645161290322
+against,Bloodseeker,Wraith King,0.22580645161290322
+against,Bloodseeker,Lina,0.1935483870967742
+against,Bloodseeker,Mirana,0.1935483870967742
+against,Bloodseeker,Silencer,0.1935483870967742
+against,Bloodseeker,Ursa,0.1935483870967742
+against,Bloodseeker,Vengeful Spirit,0.1935483870967742
+with,Bloodseeker,Crystal Maiden,0.25806451612903225
+with,Bloodseeker,Dark Willow,0.22580645161290322
+with,Bloodseeker,Silencer,0.22580645161290322
+with,Bloodseeker,Vengeful Spirit,0.22580645161290322
+with,Bloodseeker,Tiny,0.1935483870967742
+with,Bloodseeker,Winter Wyvern,0.1935483870967742
+against,Bounty Hunter,Clinkz,0.5
+against,Bounty Hunter,Gyrocopter,0.5
+against,Bounty Hunter,Io,0.5
+against,Bounty Hunter,Lycan,0.5
+against,Bounty Hunter,Ogre Magi,0.5
+against,Bounty Hunter,Pangolier,0.5
+against,Bounty Hunter,Phoenix,0.5
+against,Bounty Hunter,Queen OfPain,0.5
+against,Bounty Hunter,Shadow Shaman,0.5
+against,Bounty Hunter,Storm Spirit,0.5
+with,Bounty Hunter,Clockwerk,0.5
+with,Bounty Hunter,Crystal Maiden,0.5
+with,Bounty Hunter,Natures Prophet,0.5
+with,Bounty Hunter,Phantom Lancer,0.5
+with,Bounty Hunter,Silencer,0.5
+with,Bounty Hunter,Spectre,0.5
+with,Bounty Hunter,Storm Spirit,0.5
+with,Bounty Hunter,Templar Assassin,0.5
+against,Brewmaster,Silencer,0.38461538461538464
+against,Brewmaster,Tiny,0.38461538461538464
+against,Brewmaster,Dark Willow,0.3076923076923077
+against,Brewmaster,Clinkz,0.23076923076923078
+against,Brewmaster,Mirana,0.23076923076923078
+against,Brewmaster,Phantom Lancer,0.23076923076923078
+against,Brewmaster,Winter Wyvern,0.23076923076923078
+against,Brewmaster,Wraith King,0.23076923076923078
+with,Brewmaster,Vengeful Spirit,0.6923076923076923
+with,Brewmaster,Dark Willow,0.23076923076923078
+with,Brewmaster,Bloodseeker,0.15384615384615385
+with,Brewmaster,Broodmother,0.15384615384615385
+with,Brewmaster,Clinkz,0.15384615384615385
+with,Brewmaster,Io,0.15384615384615385
+with,Brewmaster,Mirana,0.15384615384615385
+with,Brewmaster,Phantom Lancer,0.15384615384615385
+with,Brewmaster,Shadow Fiend,0.15384615384615385
+with,Brewmaster,Spectre,0.15384615384615385
+with,Brewmaster,Storm Spirit,0.15384615384615385
+with,Brewmaster,Wraith King,0.15384615384615385
+against,Bristleback,Bane,0.3333333333333333
+against,Bristleback,Broodmother,0.3333333333333333
+against,Bristleback,Clinkz,0.3333333333333333
+against,Bristleback,Earthshaker,0.3333333333333333
+against,Bristleback,Gyrocopter,0.3333333333333333
+against,Bristleback,Invoker,0.3333333333333333
+against,Bristleback,Io,0.3333333333333333
+against,Bristleback,Kunkka,0.3333333333333333
+against,Bristleback,Lich,0.3333333333333333
+against,Bristleback,Mirana,0.3333333333333333
+against,Bristleback,Morphling,0.3333333333333333
+against,Bristleback,Natures Prophet,0.3333333333333333
+against,Bristleback,Timbersaw,0.3333333333333333
+against,Bristleback,Tiny,0.3333333333333333
+against,Bristleback,Vengeful Spirit,0.3333333333333333
+with,Bristleback,Weaver,1
+with,Bristleback,Earth Spirit,0.6666666666666666
+with,Bristleback,Vengeful Spirit,0.6666666666666666
+with,Bristleback,Alchemist,0.3333333333333333
+with,Bristleback,Crystal Maiden,0.3333333333333333
+with,Bristleback,Dragon Knight,0.3333333333333333
+with,Bristleback,Keeper of the Light,0.3333333333333333
+with,Bristleback,Meepo,0.3333333333333333
+against,Broodmother,Dark Willow,0.29411764705882354
+against,Broodmother,Vengeful Spirit,0.29411764705882354
+against,Broodmother,Drow Ranger,0.23529411764705882
+against,Broodmother,Mirana,0.23529411764705882
+against,Broodmother,Tiny,0.23529411764705882
+with,Broodmother,Vengeful Spirit,0.35294117647058826
+with,Broodmother,Dark Willow,0.29411764705882354
+with,Broodmother,Wraith King,0.29411764705882354
+with,Broodmother,Tiny,0.23529411764705882
+with,Broodmother,Batrider,0.17647058823529413
+against,Centaur Warrunner,Gyrocopter,0.375
+against,Centaur Warrunner,Axe,0.25
+against,Centaur Warrunner,Crystal Maiden,0.25
+against,Centaur Warrunner,Dark Willow,0.25
+against,Centaur Warrunner,Enchantress,0.25
+against,Centaur Warrunner,Mirana,0.25
+against,Centaur Warrunner,Ogre Magi,0.25
+against,Centaur Warrunner,Phoenix,0.25
+against,Centaur Warrunner,Storm Spirit,0.25
+against,Centaur Warrunner,Undying,0.25
+against,Centaur Warrunner,Vengeful Spirit,0.25
+with,Centaur Warrunner,Io,0.5
+with,Centaur Warrunner,Monkey King,0.25
+with,Centaur Warrunner,Morphling,0.25
+with,Centaur Warrunner,Oracle,0.25
+with,Centaur Warrunner,Silencer,0.25
+with,Centaur Warrunner,Tiny,0.25
+with,Centaur Warrunner,Vengeful Spirit,0.25
+against,Chaos Knight,Dark Willow,1
+against,Chaos Knight,Lich,1
+against,Chaos Knight,Storm Spirit,1
+against,Chaos Knight,Ursa,1
+against,Chaos Knight,Weaver,1
+with,Chaos Knight,Enchantress,1
+with,Chaos Knight,Io,1
+with,Chaos Knight,Ogre Magi,1
+with,Chaos Knight,Venomancer,1
+against,Chen,Necrophos,0.23076923076923078
+against,Chen,Tiny,0.23076923076923078
+against,Chen,Earthshaker,0.19230769230769232
+against,Chen,Weaver,0.19230769230769232
+against,Chen,Winter Wyvern,0.19230769230769232
+with,Chen,Wraith King,0.2692307692307693
+with,Chen,Lina,0.23076923076923078
+with,Chen,Invoker,0.19230769230769232
+with,Chen,Phantom Lancer,0.19230769230769232
+with,Chen,Ursa,0.19230769230769232
+with,Chen,Vengeful Spirit,0.19230769230769232
+against,Clinkz,Wraith King,0.3529411764705882
+against,Clinkz,Tiny,0.23529411764705882
+against,Clinkz,Weaver,0.21568627450980393
+against,Clinkz,Dark Willow,0.19607843137254902
+against,Clinkz,Necrophos,0.1764705882352941
+with,Clinkz,Vengeful Spirit,0.2549019607843137
+with,Clinkz,Earthshaker,0.21568627450980393
+with,Clinkz,Silencer,0.19607843137254902
+with,Clinkz,Crystal Maiden,0.1764705882352941
+with,Clinkz,Dark Willow,0.1764705882352941
+with,Clinkz,Tiny,0.1764705882352941
+against,Clockwerk,Clinkz,0.375
+against,Clockwerk,Crystal Maiden,0.375
+against,Clockwerk,Mirana,0.375
+against,Clockwerk,Earthshaker,0.25
+against,Clockwerk,Gyrocopter,0.25
+against,Clockwerk,Lycan,0.25
+against,Clockwerk,Nyx Assassin,0.25
+with,Clockwerk,Invoker,0.375
+with,Clockwerk,Enchantress,0.25
+with,Clockwerk,Mirana,0.25
+with,Clockwerk,Phantom Lancer,0.25
+with,Clockwerk,Silencer,0.25
+with,Clockwerk,Tiny,0.25
+with,Clockwerk,Vengeful Spirit,0.25
+against,Crystal Maiden,Vengeful Spirit,0.29411764705882354
+against,Crystal Maiden,Silencer,0.27450980392156865
+against,Crystal Maiden,Earthshaker,0.19607843137254902
+against,Crystal Maiden,Tiny,0.1764705882352941
+against,Crystal Maiden,Clinkz,0.1568627450980392
+against,Crystal Maiden,Dark Willow,0.1568627450980392
+against,Crystal Maiden,Mirana,0.1568627450980392
+against,Crystal Maiden,Necrophos,0.1568627450980392
+against,Crystal Maiden,Weaver,0.1568627450980392
+with,Crystal Maiden,Tiny,0.21568627450980393
+with,Crystal Maiden,Storm Spirit,0.19607843137254902
+with,Crystal Maiden,Phantom Lancer,0.17647058823529413
+with,Crystal Maiden,Clinkz,0.1764705882352941
+with,Crystal Maiden,Bloodseeker,0.1568627450980392
+with,Crystal Maiden,Enchantress,0.1568627450980392
+with,Crystal Maiden,Necrophos,0.1568627450980392
+with,Crystal Maiden,Ursa,0.1568627450980392
+with,Crystal Maiden,Wraith King,0.1568627450980392
+against,Dark Willow,Mirana,0.24242424242424243
+against,Dark Willow,Vengeful Spirit,0.24242424242424243
+against,Dark Willow,Tiny,0.19696969696969696
+against,Dark Willow,Necrophos,0.16666666666666669
+against,Dark Willow,Clinkz,0.15151515151515152
+against,Dark Willow,Undying,0.15151515151515152
+against,Dark Willow,Ursa,0.15151515151515152
+against,Dark Willow,Weaver,0.15151515151515152
+against,Dark Willow,Winter Wyvern,0.15151515151515152
+against,Dark Willow,Wraith King,0.15151515151515152
+with,Dark Willow,Wraith King,0.3939393939393939
+with,Dark Willow,Mirana,0.19696969696969696
+with,Dark Willow,Tiny,0.16666666666666669
+with,Dark Willow,Vengeful Spirit,0.15151515151515152
+with,Dark Willow,Weaver,0.15151515151515152
+against,Death Prophet,Tiny,1
+against,Death Prophet,Bloodseeker,0.5
+against,Death Prophet,Crystal Maiden,0.5
+against,Death Prophet,Earthshaker,0.5
+against,Death Prophet,Necrophos,0.5
+against,Death Prophet,Templar Assassin,0.5
+against,Death Prophet,Vengeful Spirit,0.5
+against,Death Prophet,Winter Wyvern,0.5
+against,Death Prophet,Wraith King,0.5
+with,Death Prophet,Bane,0.5
+with,Death Prophet,Clinkz,0.5
+with,Death Prophet,Earthshaker,0.5
+with,Death Prophet,Natures Prophet,0.5
+with,Death Prophet,Nyx Assassin,0.5
+with,Death Prophet,Storm Spirit,0.5
+with,Death Prophet,Ursa,0.5
+with,Death Prophet,Vengeful Spirit,0.5
+against,Disruptor,Bane,0.6
+against,Disruptor,Weaver,0.4
+against,Disruptor,Alchemist,0.2
+against,Disruptor,Chen,0.2
+against,Disruptor,Drow Ranger,0.2
+against,Disruptor,Earthshaker,0.2
+against,Disruptor,Ember Spirit,0.2
+against,Disruptor,Enchantress,0.2
+against,Disruptor,Gyrocopter,0.2
+against,Disruptor,Io,0.2
+against,Disruptor,Kunkka,0.2
+against,Disruptor,Lina,0.2
+against,Disruptor,Necrophos,0.2
+against,Disruptor,Pangolier,0.2
+against,Disruptor,Phantom Lancer,0.2
+against,Disruptor,Phoenix,0.2
+against,Disruptor,Silencer,0.2
+against,Disruptor,Storm Spirit,0.2
+against,Disruptor,Terrorblade,0.2
+against,Disruptor,Undying,0.2
+against,Disruptor,Vengeful Spirit,0.2
+against,Disruptor,Wraith King,0.2
+with,Disruptor,Templar Assassin,0.4
+with,Disruptor,Ursa,0.4
+with,Disruptor,Chen,0.2
+with,Disruptor,Dark Willow,0.2
+with,Disruptor,Earthshaker,0.2
+with,Disruptor,Faceless Void,0.2
+with,Disruptor,Gyrocopter,0.2
+with,Disruptor,Invoker,0.2
+with,Disruptor,Io,0.2
+with,Disruptor,Leshrac,0.2
+with,Disruptor,Lina,0.2
+with,Disruptor,Natures Prophet,0.2
+with,Disruptor,Necrophos,0.2
+with,Disruptor,Shadow Demon,0.2
+with,Disruptor,Spectre,0.2
+with,Disruptor,Underlord,0.2
+with,Disruptor,Windranger,0.2
+with,Disruptor,Wraith King,0.2
+against,Doom,Tiny,0.6000000000000001
+against,Doom,Earthshaker,0.4
+against,Doom,Silencer,0.4
+against,Doom,Spectre,0.4
+against,Doom,Weaver,0.4
+against,Doom,Winter Wyvern,0.4
+with,Doom,Vengeful Spirit,0.6000000000000001
+with,Doom,Crystal Maiden,0.4
+with,Doom,Storm Spirit,0.4
+with,Doom,Bloodseeker,0.2
+with,Doom,Chen,0.2
+with,Doom,Dark Willow,0.2
+with,Doom,Invoker,0.2
+with,Doom,Mirana,0.2
+with,Doom,Nyx Assassin,0.2
+with,Doom,Pugna,0.2
+with,Doom,Tiny,0.2
+with,Doom,Treant Protector,0.2
+with,Doom,Ursa,0.2
+with,Doom,Venomancer,0.2
+with,Doom,Weaver,0.2
+with,Doom,Wraith King,0.2
+against,Dragon Knight,Weaver,0.34615384615384615
+against,Dragon Knight,Tiny,0.3076923076923077
+against,Dragon Knight,Vengeful Spirit,0.2692307692307693
+against,Dragon Knight,Clinkz,0.23076923076923078
+against,Dragon Knight,Crystal Maiden,0.19230769230769232
+against,Dragon Knight,Lina,0.19230769230769232
+against,Dragon Knight,Mirana,0.19230769230769232
+against,Dragon Knight,Phantom Lancer,0.19230769230769232
+with,Dragon Knight,Mirana,0.3076923076923077
+with,Dragon Knight,Bane,0.19230769230769232
+with,Dragon Knight,Dark Willow,0.19230769230769232
+with,Dragon Knight,Vengeful Spirit,0.19230769230769232
+with,Dragon Knight,Wraith King,0.19230769230769232
+against,Drow Ranger,Tiny,0.3448275862068966
+against,Drow Ranger,Necrophos,0.3103448275862069
+against,Drow Ranger,Wraith King,0.27586206896551724
+against,Drow Ranger,Ursa,0.2413793103448276
+against,Drow Ranger,Silencer,0.24137931034482757
+with,Drow Ranger,Weaver,0.27586206896551724
+with,Drow Ranger,Undying,0.2413793103448276
+with,Drow Ranger,Vengeful Spirit,0.2413793103448276
+with,Drow Ranger,Dark Willow,0.24137931034482757
+with,Drow Ranger,Mirana,0.20689655172413796
+against,Earth Spirit,Dark Willow,0.7
+against,Earth Spirit,Mirana,0.7
+against,Earth Spirit,Tiny,0.6
+against,Earth Spirit,Ursa,0.5
+against,Earth Spirit,Crystal Maiden,0.4
+against,Earth Spirit,Necrophos,0.4
+with,Earth Spirit,Vengeful Spirit,0.7
+with,Earth Spirit,Winter Wyvern,0.5
+with,Earth Spirit,Necrophos,0.4
+with,Earth Spirit,Phantom Lancer,0.4
+with,Earth Spirit,Pugna,0.4
+with,Earth Spirit,Templar Assassin,0.4
+with,Earth Spirit,Weaver,0.4
+against,Earthshaker,Wraith King,0.26530612244897955
+against,Earthshaker,Vengeful Spirit,0.24489795918367346
+against,Earthshaker,Crystal Maiden,0.20408163265306123
+against,Earthshaker,Weaver,0.163265306122449
+against,Earthshaker,Bloodseeker,0.16326530612244897
+against,Earthshaker,Io,0.16326530612244897
+with,Earthshaker,Silencer,0.2857142857142857
+with,Earthshaker,Clinkz,0.22448979591836732
+with,Earthshaker,Natures Prophet,0.20408163265306123
+with,Earthshaker,Necrophos,0.20408163265306123
+with,Earthshaker,Enchantress,0.14285714285714285
+with,Earthshaker,Spectre,0.14285714285714285
+with,Earthshaker,Tiny,0.14285714285714285
+with,Earthshaker,Winter Wyvern,0.14285714285714285
+against,Elder Titan,Mirana,0.2727272727272727
+against,Elder Titan,Storm Spirit,0.2727272727272727
+against,Elder Titan,Tiny,0.2727272727272727
+against,Elder Titan,Winter Wyvern,0.2727272727272727
+against,Elder Titan,Dragon Knight,0.18181818181818182
+against,Elder Titan,Earthshaker,0.18181818181818182
+against,Elder Titan,Gyrocopter,0.18181818181818182
+against,Elder Titan,Io,0.18181818181818182
+against,Elder Titan,Natures Prophet,0.18181818181818182
+against,Elder Titan,Necrophos,0.18181818181818182
+against,Elder Titan,Ogre Magi,0.18181818181818182
+against,Elder Titan,Oracle,0.18181818181818182
+against,Elder Titan,Phantom Lancer,0.18181818181818182
+against,Elder Titan,Spectre,0.18181818181818182
+against,Elder Titan,Templar Assassin,0.18181818181818182
+against,Elder Titan,Vengeful Spirit,0.18181818181818182
+with,Elder Titan,Mirana,0.4545454545454546
+with,Elder Titan,Crystal Maiden,0.36363636363636365
+with,Elder Titan,Clinkz,0.2727272727272727
+with,Elder Titan,Silencer,0.2727272727272727
+with,Elder Titan,Tiny,0.2727272727272727
+against,Ember Spirit,Earthshaker,0.8
+against,Ember Spirit,Vengeful Spirit,0.8
+against,Ember Spirit,Batrider,0.4
+against,Ember Spirit,Dragon Knight,0.4
+against,Ember Spirit,Faceless Void,0.4
+against,Ember Spirit,Mirana,0.4
+against,Ember Spirit,Phantom Lancer,0.4
+against,Ember Spirit,Shadow Demon,0.4
+against,Ember Spirit,Silencer,0.4
+against,Ember Spirit,Spectre,0.4
+against,Ember Spirit,Storm Spirit,0.4
+against,Ember Spirit,Templar Assassin,0.4
+against,Ember Spirit,Terrorblade,0.4
+against,Ember Spirit,Winter Wyvern,0.4
+against,Ember Spirit,Wraith King,0.4
+with,Ember Spirit,Crystal Maiden,0.8
+with,Ember Spirit,Phantom Lancer,0.6000000000000001
+with,Ember Spirit,Tiny,0.6000000000000001
+with,Ember Spirit,Enigma,0.4
+with,Ember Spirit,Gyrocopter,0.4
+against,Enchantress,Vengeful Spirit,0.29411764705882354
+against,Enchantress,Ursa,0.23529411764705882
+against,Enchantress,Alchemist,0.17647058823529413
+against,Enchantress,Io,0.17647058823529413
+against,Enchantress,Weaver,0.17647058823529413
+with,Enchantress,Crystal Maiden,0.23529411764705882
+with,Enchantress,Earthshaker,0.20588235294117646
+with,Enchantress,Tiny,0.20588235294117646
+with,Enchantress,Phantom Lancer,0.17647058823529413
+with,Enchantress,Storm Spirit,0.1764705882352941
+against,Enigma,Necrophos,0.2631578947368421
+against,Enigma,Storm Spirit,0.2631578947368421
+against,Enigma,Vengeful Spirit,0.2631578947368421
+against,Enigma,Clinkz,0.21052631578947367
+against,Enigma,Crystal Maiden,0.21052631578947367
+against,Enigma,Pugna,0.21052631578947367
+against,Enigma,Spectre,0.21052631578947367
+against,Enigma,Tiny,0.21052631578947367
+with,Enigma,Winter Wyvern,0.3157894736842105
+with,Enigma,Tiny,0.2631578947368421
+with,Enigma,Invoker,0.21052631578947367
+with,Enigma,Ursa,0.21052631578947367
+with,Enigma,Weaver,0.21052631578947367
+against,Faceless Void,Crystal Maiden,0.625
+against,Faceless Void,Enigma,0.375
+against,Faceless Void,Weaver,0.375
+against,Faceless Void,Ember Spirit,0.25
+against,Faceless Void,Necrophos,0.25
+against,Faceless Void,Phantom Lancer,0.25
+with,Faceless Void,Mirana,0.5
+with,Faceless Void,Necrophos,0.25
+with,Faceless Void,Shadow Demon,0.25
+with,Faceless Void,Clinkz,0.125
+with,Faceless Void,Clockwerk,0.125
+with,Faceless Void,Crystal Maiden,0.125
+with,Faceless Void,Dark Willow,0.125
+with,Faceless Void,Disruptor,0.125
+with,Faceless Void,Dragon Knight,0.125
+with,Faceless Void,Earth Spirit,0.125
+with,Faceless Void,Earthshaker,0.125
+with,Faceless Void,Elder Titan,0.125
+with,Faceless Void,Huskar,0.125
+with,Faceless Void,Invoker,0.125
+with,Faceless Void,Jakiro,0.125
+with,Faceless Void,Lich,0.125
+with,Faceless Void,Lina,0.125
+with,Faceless Void,Lion,0.125
+with,Faceless Void,Magnus,0.125
+with,Faceless Void,Oracle,0.125
+with,Faceless Void,Phantom Lancer,0.125
+with,Faceless Void,Silencer,0.125
+with,Faceless Void,Templar Assassin,0.125
+with,Faceless Void,Tiny,0.125
+with,Faceless Void,Windranger,0.125
+with,Faceless Void,Winter Wyvern,0.125
+with,Faceless Void,Wraith King,0.125
+against,Gyrocopter,Silencer,0.23529411764705882
+against,Gyrocopter,Earthshaker,0.2058823529411765
+against,Gyrocopter,Mirana,0.20588235294117646
+against,Gyrocopter,Phantom Lancer,0.20588235294117646
+against,Gyrocopter,Bane,0.17647058823529413
+against,Gyrocopter,Tiny,0.17647058823529413
+with,Gyrocopter,Io,0.6176470588235294
+with,Gyrocopter,Tiny,0.29411764705882354
+with,Gyrocopter,Lina,0.17647058823529413
+with,Gyrocopter,Vengeful Spirit,0.17647058823529413
+with,Gyrocopter,Bane,0.14705882352941177
+with,Gyrocopter,Undying,0.14705882352941177
+with,Gyrocopter,Wraith King,0.14705882352941177
+against,Huskar,Crystal Maiden,0.29411764705882354
+against,Huskar,Dark Willow,0.29411764705882354
+against,Huskar,Tiny,0.29411764705882354
+against,Huskar,Wraith King,0.29411764705882354
+against,Huskar,Clinkz,0.23529411764705882
+against,Huskar,Invoker,0.23529411764705882
+against,Huskar,Vengeful Spirit,0.23529411764705882
+with,Huskar,Bane,0.23529411764705882
+with,Huskar,Clinkz,0.23529411764705882
+with,Huskar,Mirana,0.23529411764705882
+with,Huskar,Necrophos,0.23529411764705882
+with,Huskar,Wraith King,0.23529411764705882
+against,Invoker,Necrophos,0.33333333333333337
+against,Invoker,Clinkz,0.29166666666666663
+against,Invoker,Mirana,0.25
+against,Invoker,Earthshaker,0.20833333333333331
+against,Invoker,Wraith King,0.20833333333333331
+with,Invoker,Vengeful Spirit,0.25
+with,Invoker,Weaver,0.20833333333333334
+with,Invoker,Chen,0.20833333333333331
+with,Invoker,Bloodseeker,0.16666666666666666
+with,Invoker,Enigma,0.16666666666666666
+with,Invoker,Natures Prophet,0.16666666666666666
+against,Io,Earthshaker,0.24242424242424243
+against,Io,Dark Willow,0.21212121212121213
+against,Io,Silencer,0.21212121212121213
+against,Io,Clinkz,0.18181818181818182
+against,Io,Crystal Maiden,0.18181818181818182
+against,Io,Enchantress,0.18181818181818182
+against,Io,Phantom Lancer,0.18181818181818182
+against,Io,Tiny,0.18181818181818182
+against,Io,Weaver,0.18181818181818182
+with,Io,Gyrocopter,0.6363636363636364
+with,Io,Bane,0.18181818181818182
+with,Io,Lina,0.18181818181818182
+with,Io,Tiny,0.18181818181818182
+with,Io,Centaur Warrunner,0.12121212121212122
+with,Io,Dragon Knight,0.12121212121212122
+with,Io,Undying,0.12121212121212122
+with,Io,Vengeful Spirit,0.12121212121212122
+with,Io,Wraith King,0.12121212121212122
+against,Jakiro,Phantom Lancer,0.6000000000000001
+against,Jakiro,Dark Willow,0.4
+against,Jakiro,Lina,0.4
+against,Jakiro,Mirana,0.4
+against,Jakiro,Natures Prophet,0.4
+with,Jakiro,Spectre,0.4
+with,Jakiro,Vengeful Spirit,0.4
+with,Jakiro,Alchemist,0.2
+with,Jakiro,Batrider,0.2
+with,Jakiro,Brewmaster,0.2
+with,Jakiro,Dark Willow,0.2
+with,Jakiro,Dragon Knight,0.2
+with,Jakiro,Drow Ranger,0.2
+with,Jakiro,Earth Spirit,0.2
+with,Jakiro,Earthshaker,0.2
+with,Jakiro,Enchantress,0.2
+with,Jakiro,Faceless Void,0.2
+with,Jakiro,Mirana,0.2
+with,Jakiro,Necrophos,0.2
+with,Jakiro,Pangolier,0.2
+with,Jakiro,Storm Spirit,0.2
+with,Jakiro,Templar Assassin,0.2
+with,Jakiro,Weaver,0.2
+against,Juggernaut,Batrider,0.5
+against,Juggernaut,Broodmother,0.5
+against,Juggernaut,Crystal Maiden,0.5
+against,Juggernaut,Earthshaker,0.5
+against,Juggernaut,Nyx Assassin,0.5
+against,Juggernaut,Phoenix,0.5
+against,Juggernaut,Riki,0.5
+against,Juggernaut,Spectre,0.5
+against,Juggernaut,Storm Spirit,0.5
+against,Juggernaut,Vengeful Spirit,0.5
+with,Juggernaut,Earthshaker,0.5
+with,Juggernaut,Mirana,0.5
+with,Juggernaut,Monkey King,0.5
+with,Juggernaut,Necrophos,0.5
+with,Juggernaut,Pugna,0.5
+with,Juggernaut,Tiny,0.5
+with,Juggernaut,Vengeful Spirit,0.5
+with,Juggernaut,Winter Wyvern,0.5
+against,Keeper of the Light,Clinkz,0.75
+against,Keeper of the Light,Earthshaker,0.5
+against,Keeper of the Light,Natures Prophet,0.5
+against,Keeper of the Light,Silencer,0.5
+against,Keeper of the Light,Dark Willow,0.25
+against,Keeper of the Light,Invoker,0.25
+against,Keeper of the Light,Lich,0.25
+against,Keeper of the Light,Medusa,0.25
+against,Keeper of the Light,Meepo,0.25
+against,Keeper of the Light,Morphling,0.25
+against,Keeper of the Light,Necrophos,0.25
+against,Keeper of the Light,Night Stalker,0.25
+against,Keeper of the Light,Nyx Assassin,0.25
+against,Keeper of the Light,Outworld Devourer,0.25
+against,Keeper of the Light,Vengeful Spirit,0.25
+with,Keeper of the Light,Wraith King,0.75
+with,Keeper of the Light,Undying,0.5
+with,Keeper of the Light,Bristleback,0.25
+with,Keeper of the Light,Broodmother,0.25
+with,Keeper of the Light,Chen,0.25
+with,Keeper of the Light,Dragon Knight,0.25
+with,Keeper of the Light,Meepo,0.25
+with,Keeper of the Light,Mirana,0.25
+with,Keeper of the Light,Necrophos,0.25
+with,Keeper of the Light,Templar Assassin,0.25
+with,Keeper of the Light,Ursa,0.25
+with,Keeper of the Light,Vengeful Spirit,0.25
+with,Keeper of the Light,Weaver,0.25
+against,Kunkka,Vengeful Spirit,0.4375
+against,Kunkka,Mirana,0.3125
+against,Kunkka,Pugna,0.25
+against,Kunkka,Weaver,0.25
+against,Kunkka,Dark Willow,0.1875
+against,Kunkka,Dragon Knight,0.1875
+against,Kunkka,Drow Ranger,0.1875
+with,Kunkka,Bane,0.3125
+with,Kunkka,Mirana,0.3125
+with,Kunkka,Wraith King,0.25
+with,Kunkka,Earthshaker,0.1875
+with,Kunkka,Enchantress,0.1875
+with,Kunkka,Silencer,0.1875
+with,Kunkka,Spectre,0.1875
+with,Kunkka,Tiny,0.1875
+against,Legion Commander,Crystal Maiden,1
+against,Legion Commander,Wraith King,1
+against,Legion Commander,Clinkz,0.6666666666666666
+against,Legion Commander,Dark Willow,0.6666666666666666
+against,Legion Commander,Mirana,0.6666666666666666
+with,Legion Commander,Bane,0.6666666666666666
+with,Legion Commander,Io,0.6666666666666666
+with,Legion Commander,Tiny,0.6666666666666666
+with,Legion Commander,Arc Warden,0.3333333333333333
+with,Legion Commander,Crystal Maiden,0.3333333333333333
+with,Legion Commander,Dark Willow,0.3333333333333333
+with,Legion Commander,Earth Spirit,0.3333333333333333
+with,Legion Commander,Earthshaker,0.3333333333333333
+with,Legion Commander,Gyrocopter,0.3333333333333333
+with,Legion Commander,Huskar,0.3333333333333333
+with,Legion Commander,Luna,0.3333333333333333
+with,Legion Commander,Medusa,0.3333333333333333
+with,Legion Commander,Mirana,0.3333333333333333
+with,Legion Commander,Ogre Magi,0.3333333333333333
+with,Legion Commander,Oracle,0.3333333333333333
+with,Legion Commander,Silencer,0.3333333333333333
+with,Legion Commander,Spectre,0.3333333333333333
+with,Legion Commander,Terrorblade,0.3333333333333333
+with,Legion Commander,Visage,0.3333333333333333
+with,Legion Commander,Winter Wyvern,0.3333333333333333
+with,Legion Commander,Wraith King,0.3333333333333333
+against,Leshrac,Necrophos,0.6000000000000001
+against,Leshrac,Phantom Lancer,0.6000000000000001
+against,Leshrac,Vengeful Spirit,0.4
+against,Leshrac,Wraith King,0.4
+against,Leshrac,Brewmaster,0.2
+against,Leshrac,Chen,0.2
+against,Leshrac,Dark Willow,0.2
+against,Leshrac,Earth Spirit,0.2
+against,Leshrac,Earthshaker,0.2
+against,Leshrac,Enchantress,0.2
+against,Leshrac,Invoker,0.2
+against,Leshrac,Lich,0.2
+against,Leshrac,Lina,0.2
+against,Leshrac,Mirana,0.2
+against,Leshrac,Ogre Magi,0.2
+against,Leshrac,Phoenix,0.2
+against,Leshrac,Silencer,0.2
+against,Leshrac,Terrorblade,0.2
+against,Leshrac,Tiny,0.2
+with,Leshrac,Io,0.6000000000000001
+with,Leshrac,Gyrocopter,0.4
+with,Leshrac,Tiny,0.4
+with,Leshrac,Bane,0.2
+with,Leshrac,Beastmaster,0.2
+with,Leshrac,Centaur Warrunner,0.2
+with,Leshrac,Disruptor,0.2
+with,Leshrac,Lina,0.2
+with,Leshrac,Mirana,0.2
+with,Leshrac,Monkey King,0.2
+with,Leshrac,Natures Prophet,0.2
+with,Leshrac,Ogre Magi,0.2
+with,Leshrac,Undying,0.2
+with,Leshrac,Ursa,0.2
+with,Leshrac,Winter Wyvern,0.2
+with,Leshrac,Wraith King,0.2
+against,Lich,Vengeful Spirit,1.1428571428571428
+against,Lich,Clinkz,0.42857142857142855
+against,Lich,Io,0.42857142857142855
+against,Lich,Tiny,0.42857142857142855
+against,Lich,Weaver,0.42857142857142855
+with,Lich,Tiny,0.8571428571428571
+with,Lich,Spectre,0.5714285714285714
+with,Lich,Wraith King,0.5714285714285714
+with,Lich,Alchemist,0.42857142857142855
+with,Lich,Dark Willow,0.42857142857142855
+with,Lich,Phantom Lancer,0.42857142857142855
+with,Lich,Storm Spirit,0.42857142857142855
+against,Lifestealer,Phoenix,2
+against,Lifestealer,Tiny,2
+against,Lifestealer,Clinkz,1
+against,Lifestealer,Earth Spirit,1
+against,Lifestealer,Enchantress,1
+against,Lifestealer,Enigma,1
+against,Lifestealer,Spirit Breaker,1
+against,Lifestealer,Templar Assassin,1
+with,Lifestealer,Bane,1
+with,Lifestealer,Crystal Maiden,1
+with,Lifestealer,Lina,1
+with,Lifestealer,Mirana,1
+with,Lifestealer,Pugna,1
+with,Lifestealer,Storm Spirit,1
+with,Lifestealer,Vengeful Spirit,1
+with,Lifestealer,Wraith King,1
+against,Lina,Templar Assassin,0.21951219512195122
+against,Lina,Necrophos,0.2195121951219512
+against,Lina,Mirana,0.1951219512195122
+against,Lina,Phoenix,0.1951219512195122
+against,Lina,Silencer,0.1951219512195122
+against,Lina,Wraith King,0.1951219512195122
+with,Lina,Silencer,0.2682926829268293
+with,Lina,Phantom Lancer,0.24390243902439024
+with,Lina,Vengeful Spirit,0.24390243902439024
+with,Lina,Winter Wyvern,0.1951219512195122
+with,Lina,Crystal Maiden,0.17073170731707316
+against,Lion,Earthshaker,0.3571428571428571
+against,Lion,Weaver,0.3571428571428571
+against,Lion,Silencer,0.2857142857142857
+against,Lion,Bloodseeker,0.21428571428571427
+against,Lion,Crystal Maiden,0.21428571428571427
+against,Lion,Dragon Knight,0.21428571428571427
+against,Lion,Invoker,0.21428571428571427
+against,Lion,Vengeful Spirit,0.21428571428571427
+with,Lion,Necrophos,0.3571428571428571
+with,Lion,Wraith King,0.3571428571428571
+with,Lion,Dark Willow,0.2857142857142857
+with,Lion,Enchantress,0.21428571428571427
+with,Lion,Io,0.21428571428571427
+with,Lion,Mirana,0.21428571428571427
+with,Lion,Templar Assassin,0.21428571428571427
+with,Lion,Weaver,0.21428571428571427
+against,Lone Druid,Alchemist,0.6666666666666666
+against,Lone Druid,Dark Willow,0.6666666666666666
+against,Lone Druid,Ursa,0.6666666666666666
+against,Lone Druid,Windranger,0.6666666666666666
+against,Lone Druid,Bane,0.3333333333333333
+against,Lone Druid,Drow Ranger,0.3333333333333333
+against,Lone Druid,Lion,0.3333333333333333
+against,Lone Druid,Mirana,0.3333333333333333
+against,Lone Druid,Silencer,0.3333333333333333
+against,Lone Druid,Storm Spirit,0.3333333333333333
+against,Lone Druid,Undying,0.3333333333333333
+with,Lone Druid,Winter Wyvern,1
+with,Lone Druid,Earth Spirit,0.6666666666666666
+with,Lone Druid,Wraith King,0.6666666666666666
+with,Lone Druid,Broodmother,0.3333333333333333
+with,Lone Druid,Dark Willow,0.3333333333333333
+with,Lone Druid,Enchantress,0.3333333333333333
+with,Lone Druid,Templar Assassin,0.3333333333333333
+with,Lone Druid,Visage,0.3333333333333333
+against,Luna,Dark Willow,0.6666666666666666
+against,Luna,Mirana,0.6666666666666666
+against,Luna,Spectre,0.6666666666666666
+against,Luna,Bloodseeker,0.3333333333333333
+against,Luna,Brewmaster,0.3333333333333333
+against,Luna,Crystal Maiden,0.3333333333333333
+against,Luna,Lich,0.3333333333333333
+against,Luna,Necrophos,0.3333333333333333
+against,Luna,Rubick,0.3333333333333333
+against,Luna,Shadow Fiend,0.3333333333333333
+against,Luna,Vengeful Spirit,0.3333333333333333
+against,Luna,Wraith King,0.3333333333333333
+with,Luna,Wraith King,0.6666666666666666
+with,Luna,Bane,0.3333333333333333
+with,Luna,Dark Willow,0.3333333333333333
+with,Luna,Huskar,0.3333333333333333
+with,Luna,Io,0.3333333333333333
+with,Luna,Kunkka,0.3333333333333333
+with,Luna,Legion Commander,0.3333333333333333
+with,Luna,Necrophos,0.3333333333333333
+with,Luna,Silencer,0.3333333333333333
+with,Luna,Warlock,0.3333333333333333
+with,Luna,Windranger,0.3333333333333333
+against,Lycan,Mirana,0.5714285714285714
+against,Lycan,Drow Ranger,0.42857142857142855
+against,Lycan,Clockwerk,0.2857142857142857
+against,Lycan,Enchantress,0.2857142857142857
+against,Lycan,Vengeful Spirit,0.2857142857142857
+with,Lycan,Silencer,0.5714285714285714
+with,Lycan,Tusk,0.42857142857142855
+with,Lycan,Weaver,0.42857142857142855
+with,Lycan,Tiny,0.2857142857142857
+with,Lycan,Ursa,0.2857142857142857
+against,Magnus,Earthshaker,0.5
+against,Magnus,Enchantress,0.5
+against,Magnus,Clinkz,0.3333333333333333
+against,Magnus,Crystal Maiden,0.3333333333333333
+against,Magnus,Kunkka,0.3333333333333333
+against,Magnus,Nyx Assassin,0.3333333333333333
+against,Magnus,Silencer,0.3333333333333333
+with,Magnus,Invoker,0.3333333333333333
+with,Magnus,Lina,0.3333333333333333
+with,Magnus,Silencer,0.3333333333333333
+with,Magnus,Terrorblade,0.3333333333333333
+with,Magnus,Ursa,0.3333333333333333
+against,Medusa,Lina,1
+against,Medusa,Silencer,1
+against,Medusa,Vengeful Spirit,1
+against,Medusa,Dark Willow,0.6666666666666666
+against,Medusa,Terrorblade,0.6666666666666666
+against,Medusa,Wraith King,0.6666666666666666
+with,Medusa,Winter Wyvern,1
+with,Medusa,Clinkz,0.6666666666666666
+with,Medusa,Crystal Maiden,0.6666666666666666
+with,Medusa,Dark Willow,0.6666666666666666
+with,Medusa,Earthshaker,0.6666666666666666
+with,Medusa,Mirana,0.6666666666666666
+with,Medusa,Tiny,0.6666666666666666
+with,Medusa,Weaver,0.6666666666666666
+against,Meepo,Earthshaker,0.5
+against,Meepo,Invoker,0.5
+against,Meepo,Keeper of the Light,0.5
+against,Meepo,Lich,0.5
+against,Meepo,Mirana,0.5
+against,Meepo,Morphling,0.5
+against,Meepo,Natures Prophet,0.5
+against,Meepo,Templar Assassin,0.5
+against,Meepo,Undying,0.5
+against,Meepo,Wraith King,0.5
+with,Meepo,Bristleback,0.5
+with,Meepo,Clinkz,0.5
+with,Meepo,Earthshaker,0.5
+with,Meepo,Keeper of the Light,0.5
+with,Meepo,Necrophos,0.5
+with,Meepo,Silencer,0.5
+with,Meepo,Vengeful Spirit,0.5
+with,Meepo,Weaver,0.5
+against,Mirana,Tiny,0.2876712328767123
+against,Mirana,Weaver,0.273972602739726
+against,Mirana,Silencer,0.2465753424657534
+against,Mirana,Dark Willow,0.2191780821917808
+against,Mirana,Wraith King,0.2054794520547945
+with,Mirana,Vengeful Spirit,0.3150684931506849
+with,Mirana,Dark Willow,0.1780821917808219
+with,Mirana,Wraith King,0.1780821917808219
+with,Mirana,Bane,0.1643835616438356
+with,Mirana,Tiny,0.1643835616438356
+against,Monkey King,Crystal Maiden,0.30000000000000004
+against,Monkey King,Broodmother,0.3
+against,Monkey King,Dark Willow,0.3
+against,Monkey King,Nyx Assassin,0.3
+against,Monkey King,Wraith King,0.3
+with,Monkey King,Earthshaker,0.30000000000000004
+with,Monkey King,Pugna,0.3
+with,Monkey King,Vengeful Spirit,0.3
+with,Monkey King,Centaur Warrunner,0.2
+with,Monkey King,Chen,0.2
+with,Monkey King,Lina,0.2
+with,Monkey King,Phantom Lancer,0.2
+with,Monkey King,Spectre,0.2
+with,Monkey King,Treant Protector,0.2
+with,Monkey King,Winter Wyvern,0.2
+against,Morphling,Gyrocopter,0.4
+against,Morphling,Vengeful Spirit,0.4
+against,Morphling,Weaver,0.4
+against,Morphling,Alchemist,0.30000000000000004
+against,Morphling,Axe,0.30000000000000004
+against,Morphling,Io,0.30000000000000004
+with,Morphling,Earthshaker,0.30000000000000004
+with,Morphling,Natures Prophet,0.30000000000000004
+with,Morphling,Silencer,0.30000000000000004
+with,Morphling,Winter Wyvern,0.30000000000000004
+with,Morphling,Centaur Warrunner,0.2
+with,Morphling,Chen,0.2
+with,Morphling,Invoker,0.2
+with,Morphling,Io,0.2
+with,Morphling,Lina,0.2
+with,Morphling,Phantom Lancer,0.2
+with,Morphling,Pugna,0.2
+with,Morphling,Tusk,0.2
+against,Naga Siren,Alchemist,1
+against,Naga Siren,Elder Titan,1
+against,Naga Siren,Gyrocopter,1
+against,Naga Siren,Lich,1
+against,Naga Siren,Tiny,1
+with,Naga Siren,Mirana,1
+with,Naga Siren,Phantom Lancer,1
+with,Naga Siren,Templar Assassin,1
+with,Naga Siren,Vengeful Spirit,1
+against,Natures Prophet,Wraith King,0.34375
+against,Natures Prophet,Dark Willow,0.21875
+against,Natures Prophet,Necrophos,0.21875
+against,Natures Prophet,Vengeful Spirit,0.21875
+against,Natures Prophet,Mirana,0.1875
+with,Natures Prophet,Earthshaker,0.3125
+with,Natures Prophet,Necrophos,0.1875
+with,Natures Prophet,Ursa,0.1875
+with,Natures Prophet,Vengeful Spirit,0.1875
+with,Natures Prophet,Clinkz,0.15625
+with,Natures Prophet,Tiny,0.15625
+against,Necrophos,Vengeful Spirit,0.25
+against,Necrophos,Tiny,0.23214285714285715
+against,Necrophos,Mirana,0.19642857142857145
+against,Necrophos,Dark Willow,0.19642857142857142
+against,Necrophos,Weaver,0.17857142857142858
+with,Necrophos,Tiny,0.19642857142857142
+with,Necrophos,Wraith King,0.19642857142857142
+with,Necrophos,Earthshaker,0.17857142857142858
+with,Necrophos,Mirana,0.17857142857142858
+with,Necrophos,Crystal Maiden,0.14285714285714285
+with,Necrophos,Silencer,0.14285714285714285
+with,Necrophos,Vengeful Spirit,0.14285714285714285
+against,Night Stalker,Chen,1
+against,Night Stalker,Dragon Knight,1
+against,Night Stalker,Keeper of the Light,1
+against,Night Stalker,Ursa,1
+against,Night Stalker,Wraith King,1
+with,Night Stalker,Clinkz,1
+with,Night Stalker,Natures Prophet,1
+with,Night Stalker,Outworld Devourer,1
+with,Night Stalker,Vengeful Spirit,1
+against,Nyx Assassin,Tiny,0.35
+against,Nyx Assassin,Pugna,0.25
+against,Nyx Assassin,Weaver,0.25
+against,Nyx Assassin,Necrophos,0.2
+against,Nyx Assassin,Silencer,0.2
+against,Nyx Assassin,Vengeful Spirit,0.2
+with,Nyx Assassin,Mirana,0.35
+with,Nyx Assassin,Clinkz,0.25
+with,Nyx Assassin,Crystal Maiden,0.2
+with,Nyx Assassin,Natures Prophet,0.2
+with,Nyx Assassin,Storm Spirit,0.2
+with,Nyx Assassin,Ursa,0.2
+with,Nyx Assassin,Vengeful Spirit,0.2
+against,Ogre Magi,Vengeful Spirit,0.3333333333333333
+against,Ogre Magi,Mirana,0.2777777777777778
+against,Ogre Magi,Silencer,0.2777777777777778
+against,Ogre Magi,Spectre,0.2222222222222222
+against,Ogre Magi,Tiny,0.2222222222222222
+against,Ogre Magi,Weaver,0.2222222222222222
+with,Ogre Magi,Mirana,0.4444444444444444
+with,Ogre Magi,Dark Willow,0.33333333333333337
+with,Ogre Magi,Wraith King,0.2777777777777778
+with,Ogre Magi,Necrophos,0.2222222222222222
+with,Ogre Magi,Tiny,0.2222222222222222
+against,Omniknight,Clinkz,1
+against,Omniknight,Dark Willow,1
+against,Omniknight,Weaver,1
+against,Omniknight,Winter Wyvern,1
+against,Omniknight,Wraith King,1
+with,Omniknight,Bloodseeker,1
+with,Omniknight,Huskar,1
+with,Omniknight,Shadow Shaman,1
+with,Omniknight,Vengeful Spirit,1
+against,Oracle,Necrophos,0.4
+against,Oracle,Crystal Maiden,0.30000000000000004
+against,Oracle,Wraith King,0.30000000000000004
+against,Oracle,Dark Willow,0.3
+against,Oracle,Clinkz,0.2
+against,Oracle,Elder Titan,0.2
+against,Oracle,Enigma,0.2
+against,Oracle,Lion,0.2
+against,Oracle,Nyx Assassin,0.2
+against,Oracle,Spectre,0.2
+against,Oracle,Storm Spirit,0.2
+against,Oracle,Undying,0.2
+against,Oracle,Ursa,0.2
+with,Oracle,Tiny,0.5
+with,Oracle,Gyrocopter,0.30000000000000004
+with,Oracle,Mirana,0.30000000000000004
+with,Oracle,Weaver,0.30000000000000004
+with,Oracle,Centaur Warrunner,0.2
+with,Oracle,Clinkz,0.2
+with,Oracle,Earthshaker,0.2
+with,Oracle,Io,0.2
+with,Oracle,Kunkka,0.2
+with,Oracle,Necrophos,0.2
+against,Outworld Devourer,Chen,1
+against,Outworld Devourer,Dragon Knight,1
+against,Outworld Devourer,Keeper of the Light,1
+against,Outworld Devourer,Ursa,1
+against,Outworld Devourer,Wraith King,1
+with,Outworld Devourer,Clinkz,1
+with,Outworld Devourer,Natures Prophet,1
+with,Outworld Devourer,Night Stalker,1
+with,Outworld Devourer,Vengeful Spirit,1
+against,Pangolier,Phantom Lancer,0.4
+against,Pangolier,Dark Willow,0.26666666666666666
+against,Pangolier,Lina,0.26666666666666666
+against,Pangolier,Mirana,0.26666666666666666
+against,Pangolier,Natures Prophet,0.26666666666666666
+against,Pangolier,Templar Assassin,0.26666666666666666
+with,Pangolier,Weaver,0.33333333333333337
+with,Pangolier,Winter Wyvern,0.3333333333333333
+with,Pangolier,Crystal Maiden,0.26666666666666666
+with,Pangolier,Alchemist,0.2
+with,Pangolier,Dark Willow,0.2
+with,Pangolier,Vengeful Spirit,0.2
+against,Phantom Assassin,Enchantress,1
+against,Phantom Assassin,Earth Spirit,0.5
+against,Phantom Assassin,Mirana,0.5
+against,Phantom Assassin,Ogre Magi,0.5
+against,Phantom Assassin,Phoenix,0.5
+against,Phantom Assassin,Pugna,0.5
+against,Phantom Assassin,Templar Assassin,0.5
+against,Phantom Assassin,Vengeful Spirit,0.5
+against,Phantom Assassin,Weaver,0.5
+with,Phantom Assassin,Tiny,1
+with,Phantom Assassin,Dark Willow,0.5
+with,Phantom Assassin,Earthshaker,0.5
+with,Phantom Assassin,Necrophos,0.5
+with,Phantom Assassin,Shadow Shaman,0.5
+with,Phantom Assassin,Undying,0.5
+with,Phantom Assassin,Windranger,0.5
+against,Phantom Lancer,Vengeful Spirit,0.2564102564102564
+against,Phantom Lancer,Ursa,0.20512820512820512
+against,Phantom Lancer,Weaver,0.20512820512820512
+against,Phantom Lancer,Alchemist,0.1794871794871795
+against,Phantom Lancer,Dark Willow,0.1794871794871795
+against,Phantom Lancer,Earthshaker,0.1794871794871795
+with,Phantom Lancer,Vengeful Spirit,0.28205128205128205
+with,Phantom Lancer,Lina,0.2564102564102564
+with,Phantom Lancer,Crystal Maiden,0.23076923076923078
+with,Phantom Lancer,Tiny,0.1794871794871795
+with,Phantom Lancer,Mirana,0.17948717948717946
+against,Phoenix,Tiny,0.3333333333333333
+against,Phoenix,Lina,0.2962962962962963
+against,Phoenix,Vengeful Spirit,0.2962962962962963
+against,Phoenix,Mirana,0.25925925925925924
+against,Phoenix,Winter Wyvern,0.2222222222222222
+with,Phoenix,Ursa,0.3333333333333333
+with,Phoenix,Vengeful Spirit,0.2962962962962963
+with,Phoenix,Storm Spirit,0.2222222222222222
+with,Phoenix,Tiny,0.2222222222222222
+with,Phoenix,Weaver,0.2222222222222222
+against,Puck,Winter Wyvern,1
+against,Puck,Dark Willow,0.5
+against,Puck,Drow Ranger,0.5
+against,Puck,Enigma,0.5
+against,Puck,Lina,0.5
+against,Puck,Mirana,0.5
+against,Puck,Templar Assassin,0.5
+against,Puck,Ursa,0.5
+against,Puck,Wraith King,0.5
+with,Puck,Bloodseeker,0.5
+with,Puck,Broodmother,0.5
+with,Puck,Clinkz,0.5
+with,Puck,Necrophos,0.5
+with,Puck,Rubick,0.5
+with,Puck,Silencer,0.5
+with,Puck,Tiny,0.5
+with,Puck,Vengeful Spirit,0.5
+against,Pudge,Earth Spirit,1
+against,Pudge,Enchantress,1
+against,Pudge,Legion Commander,1
+against,Pudge,Lich,1
+against,Pudge,Silencer,1
+against,Pudge,Spectre,1
+against,Pudge,Terrorblade,1
+against,Pudge,Tiny,1
+against,Pudge,Tusk,1
+against,Pudge,Visage,1
+with,Pudge,Weaver,2
+with,Pudge,Alchemist,1
+with,Pudge,Bloodseeker,1
+with,Pudge,Clinkz,1
+with,Pudge,Crystal Maiden,1
+with,Pudge,Vengeful Spirit,1
+with,Pudge,Zeus,1
+against,Pugna,Winter Wyvern,0.25925925925925924
+against,Pugna,Clinkz,0.2222222222222222
+against,Pugna,Dark Willow,0.2222222222222222
+against,Pugna,Mirana,0.2222222222222222
+against,Pugna,Tiny,0.2222222222222222
+against,Pugna,Ursa,0.2222222222222222
+against,Pugna,Vengeful Spirit,0.2222222222222222
+with,Pugna,Tiny,0.2962962962962963
+with,Pugna,Silencer,0.2222222222222222
+with,Pugna,Earthshaker,0.18518518518518517
+with,Pugna,Vengeful Spirit,0.18518518518518517
+with,Pugna,Wraith King,0.18518518518518517
+against,Queen OfPain,Bane,0.5
+against,Queen OfPain,Bounty Hunter,0.5
+against,Queen OfPain,Chen,0.5
+against,Queen OfPain,Clockwerk,0.5
+against,Queen OfPain,Huskar,0.5
+against,Queen OfPain,Mirana,0.5
+against,Queen OfPain,Silencer,0.5
+against,Queen OfPain,Spectre,0.5
+against,Queen OfPain,Storm Spirit,0.5
+against,Queen OfPain,Ursa,0.5
+with,Queen OfPain,Bloodseeker,0.5
+with,Queen OfPain,Dark Willow,0.5
+with,Queen OfPain,Gyrocopter,0.5
+with,Queen OfPain,Io,0.5
+with,Queen OfPain,Lycan,0.5
+with,Queen OfPain,Necrophos,0.5
+with,Queen OfPain,Ogre Magi,0.5
+with,Queen OfPain,Silencer,0.5
+against,Razor,Faceless Void,1
+against,Razor,Huskar,1
+against,Razor,Lich,1
+against,Razor,Phantom Lancer,1
+against,Razor,Wraith King,1
+with,Razor,Crystal Maiden,1
+with,Razor,Earthshaker,1
+with,Razor,Ember Spirit,1
+with,Razor,Enigma,1
+against,Riki,Earthshaker,0.6666666666666666
+against,Riki,Chen,0.3333333333333333
+against,Riki,Clockwerk,0.3333333333333333
+against,Riki,Enchantress,0.3333333333333333
+against,Riki,Invoker,0.3333333333333333
+against,Riki,Juggernaut,0.3333333333333333
+against,Riki,Medusa,0.3333333333333333
+against,Riki,Monkey King,0.3333333333333333
+against,Riki,Necrophos,0.3333333333333333
+against,Riki,Pangolier,0.3333333333333333
+against,Riki,Phantom Lancer,0.3333333333333333
+against,Riki,Pugna,0.3333333333333333
+against,Riki,Weaver,0.3333333333333333
+against,Riki,Winter Wyvern,0.3333333333333333
+with,Riki,Vengeful Spirit,0.6666666666666666
+with,Riki,Batrider,0.3333333333333333
+with,Riki,Broodmother,0.3333333333333333
+with,Riki,Clinkz,0.3333333333333333
+with,Riki,Crystal Maiden,0.3333333333333333
+with,Riki,Lina,0.3333333333333333
+with,Riki,Nyx Assassin,0.3333333333333333
+with,Riki,Phantom Lancer,0.3333333333333333
+with,Riki,Rubick,0.3333333333333333
+with,Riki,Windranger,0.3333333333333333
+with,Riki,Wraith King,0.3333333333333333
+against,Rubick,Weaver,0.5
+against,Rubick,Winter Wyvern,0.3571428571428571
+against,Rubick,Drow Ranger,0.2857142857142857
+against,Rubick,Vengeful Spirit,0.2857142857142857
+against,Rubick,Earthshaker,0.21428571428571427
+against,Rubick,Nyx Assassin,0.21428571428571427
+with,Rubick,Necrophos,0.35714285714285715
+with,Rubick,Bloodseeker,0.21428571428571427
+with,Rubick,Mirana,0.21428571428571427
+with,Rubick,Zeus,0.21428571428571427
+with,Rubick,Clinkz,0.14285714285714285
+with,Rubick,Dragon Knight,0.14285714285714285
+with,Rubick,Invoker,0.14285714285714285
+with,Rubick,Lich,0.14285714285714285
+with,Rubick,Lina,0.14285714285714285
+with,Rubick,Natures Prophet,0.14285714285714285
+with,Rubick,Ogre Magi,0.14285714285714285
+with,Rubick,Phantom Lancer,0.14285714285714285
+with,Rubick,Pugna,0.14285714285714285
+with,Rubick,Spectre,0.14285714285714285
+with,Rubick,Tiny,0.14285714285714285
+with,Rubick,Wraith King,0.14285714285714285
+against,Sand King,Pugna,1
+against,Sand King,Tiny,1
+against,Sand King,Undying,1
+against,Sand King,Ursa,1
+against,Sand King,Weaver,1
+with,Sand King,Clinkz,1
+with,Sand King,Dark Willow,1
+with,Sand King,Spectre,1
+with,Sand King,Winter Wyvern,1
+against,Shadow Demon,Weaver,0.5
+against,Shadow Demon,Bane,0.25
+against,Shadow Demon,Crystal Maiden,0.25
+against,Shadow Demon,Dark Willow,0.25
+against,Shadow Demon,Ember Spirit,0.25
+against,Shadow Demon,Gyrocopter,0.25
+against,Shadow Demon,Tiny,0.25
+against,Shadow Demon,Underlord,0.25
+against,Shadow Demon,Undying,0.25
+against,Shadow Demon,Winter Wyvern,0.25
+against,Shadow Demon,Wraith King,0.25
+with,Shadow Demon,Mirana,0.75
+with,Shadow Demon,Dragon Knight,0.5
+with,Shadow Demon,Faceless Void,0.25
+with,Shadow Demon,Necrophos,0.25
+with,Shadow Demon,Chen,0.125
+with,Shadow Demon,Clinkz,0.125
+with,Shadow Demon,Clockwerk,0.125
+with,Shadow Demon,Disruptor,0.125
+with,Shadow Demon,Earth Spirit,0.125
+with,Shadow Demon,Elder Titan,0.125
+with,Shadow Demon,Lion,0.125
+with,Shadow Demon,Nyx Assassin,0.125
+with,Shadow Demon,Phantom Lancer,0.125
+with,Shadow Demon,Pugna,0.125
+with,Shadow Demon,Rubick,0.125
+with,Shadow Demon,Shadow Shaman,0.125
+with,Shadow Demon,Spectre,0.125
+with,Shadow Demon,Templar Assassin,0.125
+with,Shadow Demon,Timbersaw,0.125
+with,Shadow Demon,Tiny,0.125
+with,Shadow Demon,Visage,0.125
+with,Shadow Demon,Zeus,0.125
+against,Shadow Fiend,Silencer,1
+against,Shadow Fiend,Clinkz,0.6666666666666666
+against,Shadow Fiend,Enigma,0.6666666666666666
+against,Shadow Fiend,Vengeful Spirit,0.6666666666666666
+against,Shadow Fiend,Winter Wyvern,0.6666666666666666
+against,Shadow Fiend,Wraith King,0.6666666666666666
+with,Shadow Fiend,Brewmaster,0.6666666666666666
+with,Shadow Fiend,Dark Willow,0.6666666666666666
+with,Shadow Fiend,Earthshaker,0.6666666666666666
+with,Shadow Fiend,Silencer,0.6666666666666666
+with,Shadow Fiend,Abaddon,0.3333333333333333
+with,Shadow Fiend,Bloodseeker,0.3333333333333333
+with,Shadow Fiend,Centaur Warrunner,0.3333333333333333
+with,Shadow Fiend,Clinkz,0.3333333333333333
+with,Shadow Fiend,Gyrocopter,0.3333333333333333
+with,Shadow Fiend,Io,0.3333333333333333
+with,Shadow Fiend,Natures Prophet,0.3333333333333333
+with,Shadow Fiend,Ogre Magi,0.3333333333333333
+with,Shadow Fiend,Pangolier,0.3333333333333333
+with,Shadow Fiend,Pugna,0.3333333333333333
+with,Shadow Fiend,Spectre,0.3333333333333333
+with,Shadow Fiend,Sven,0.3333333333333333
+with,Shadow Fiend,Tusk,0.3333333333333333
+with,Shadow Fiend,Undying,0.3333333333333333
+with,Shadow Fiend,Vengeful Spirit,0.3333333333333333
+with,Shadow Fiend,Weaver,0.3333333333333333
+against,Shadow Shaman,Dark Willow,0.4
+against,Shadow Shaman,Vengeful Spirit,0.4
+against,Shadow Shaman,Weaver,0.4
+against,Shadow Shaman,Clinkz,0.2
+against,Shadow Shaman,Crystal Maiden,0.2
+against,Shadow Shaman,Invoker,0.2
+against,Shadow Shaman,Pangolier,0.2
+against,Shadow Shaman,Pugna,0.2
+against,Shadow Shaman,Templar Assassin,0.2
+against,Shadow Shaman,Undying,0.2
+against,Shadow Shaman,Ursa,0.2
+with,Shadow Shaman,Mirana,0.30000000000000004
+with,Shadow Shaman,Necrophos,0.30000000000000004
+with,Shadow Shaman,Clinkz,0.2
+with,Shadow Shaman,Enchantress,0.2
+with,Shadow Shaman,Huskar,0.2
+with,Shadow Shaman,Nyx Assassin,0.2
+with,Shadow Shaman,Phantom Lancer,0.2
+with,Shadow Shaman,Spectre,0.2
+against,Silencer,Mirana,0.6428571428571428
+against,Silencer,Vengeful Spirit,0.5357142857142857
+against,Silencer,Crystal Maiden,0.5
+against,Silencer,Wraith King,0.4642857142857143
+against,Silencer,Ursa,0.3214285714285714
+against,Silencer,Winter Wyvern,0.3214285714285714
+with,Silencer,Earthshaker,0.5
+with,Silencer,Lina,0.39285714285714285
+with,Silencer,Clinkz,0.35714285714285715
+with,Silencer,Dark Willow,0.3214285714285714
+with,Silencer,Terrorblade,0.3214285714285714
+with,Silencer,Tiny,0.3214285714285714
+against,Skywrath Mage,Gyrocopter,1
+against,Skywrath Mage,Io,1
+against,Skywrath Mage,Lina,1
+against,Skywrath Mage,Lion,1
+against,Skywrath Mage,Wraith King,1
+with,Skywrath Mage,Monkey King,1
+with,Skywrath Mage,Vengeful Spirit,1
+with,Skywrath Mage,Warlock,1
+with,Skywrath Mage,Weaver,1
+against,Sniper,Enchantress,1
+against,Sniper,Phantom Lancer,1
+against,Sniper,Pugna,1
+against,Sniper,Shadow Shaman,1
+against,Sniper,Venomancer,1
+with,Sniper,Alchemist,1
+with,Sniper,Phoenix,1
+with,Sniper,Ursa,1
+with,Sniper,Vengeful Spirit,1
+against,Spectre,Vengeful Spirit,0.37142857142857144
+against,Spectre,Mirana,0.3142857142857143
+against,Spectre,Tiny,0.3142857142857143
+against,Spectre,Dark Willow,0.17142857142857143
+against,Spectre,Weaver,0.17142857142857143
+against,Spectre,Wraith King,0.17142857142857143
+with,Spectre,Dark Willow,0.22857142857142856
+with,Spectre,Crystal Maiden,0.2
+with,Spectre,Earthshaker,0.2
+with,Spectre,Silencer,0.17142857142857143
+with,Spectre,Tiny,0.17142857142857143
+against,Spirit Breaker,Arc Warden,0.5
+against,Spirit Breaker,Crystal Maiden,0.5
+against,Spirit Breaker,Lifestealer,0.5
+against,Spirit Breaker,Lycan,0.5
+against,Spirit Breaker,Pugna,0.5
+against,Spirit Breaker,Silencer,0.5
+against,Spirit Breaker,Storm Spirit,0.5
+against,Spirit Breaker,Tusk,0.5
+against,Spirit Breaker,Ursa,0.5
+against,Spirit Breaker,Wraith King,0.5
+with,Spirit Breaker,Phoenix,1
+with,Spirit Breaker,Clinkz,0.5
+with,Spirit Breaker,Drow Ranger,0.5
+with,Spirit Breaker,Enchantress,0.5
+with,Spirit Breaker,Enigma,0.5
+with,Spirit Breaker,Gyrocopter,0.5
+with,Spirit Breaker,Tiny,0.5
+against,Storm Spirit,Tiny,0.24324324324324326
+against,Storm Spirit,Winter Wyvern,0.24324324324324326
+against,Storm Spirit,Mirana,0.21621621621621623
+against,Storm Spirit,Ursa,0.21621621621621623
+against,Storm Spirit,Crystal Maiden,0.1891891891891892
+against,Storm Spirit,Vengeful Spirit,0.1891891891891892
+with,Storm Spirit,Crystal Maiden,0.2702702702702703
+with,Storm Spirit,Dark Willow,0.21621621621621623
+with,Storm Spirit,Vengeful Spirit,0.21621621621621623
+with,Storm Spirit,Drow Ranger,0.16216216216216217
+with,Storm Spirit,Enchantress,0.16216216216216217
+with,Storm Spirit,Necrophos,0.16216216216216217
+with,Storm Spirit,Phoenix,0.16216216216216217
+with,Storm Spirit,Weaver,0.16216216216216217
+with,Storm Spirit,Wraith King,0.16216216216216217
+against,Sven,Clinkz,1
+against,Sven,Crystal Maiden,1
+against,Sven,Lina,1
+against,Sven,Phantom Lancer,1
+against,Sven,Silencer,1
+against,Sven,Tiny,1
+against,Sven,Tusk,1
+against,Sven,Ursa,1
+against,Sven,Vengeful Spirit,1
+against,Sven,Winter Wyvern,1
+with,Sven,Drow Ranger,1
+with,Sven,Earthshaker,1
+with,Sven,Mirana,1
+with,Sven,Necrophos,1
+with,Sven,Pangolier,1
+with,Sven,Shadow Fiend,1
+with,Sven,Silencer,1
+with,Sven,Undying,1
+against,Templar Assassin,Lina,0.34615384615384615
+against,Templar Assassin,Tiny,0.23076923076923078
+against,Templar Assassin,Ursa,0.23076923076923078
+against,Templar Assassin,Mirana,0.19230769230769232
+against,Templar Assassin,Silencer,0.19230769230769232
+against,Templar Assassin,Vengeful Spirit,0.19230769230769232
+against,Templar Assassin,Weaver,0.19230769230769232
+with,Templar Assassin,Dark Willow,0.23076923076923078
+with,Templar Assassin,Wraith King,0.23076923076923078
+with,Templar Assassin,Enchantress,0.19230769230769232
+with,Templar Assassin,Mirana,0.19230769230769232
+with,Templar Assassin,Necrophos,0.19230769230769232
+with,Templar Assassin,Silencer,0.19230769230769232
+with,Templar Assassin,Winter Wyvern,0.19230769230769232
+against,Terrorblade,Spectre,0.3125
+against,Terrorblade,Vengeful Spirit,0.3125
+against,Terrorblade,Wraith King,0.25
+against,Terrorblade,Crystal Maiden,0.1875
+against,Terrorblade,Dark Willow,0.1875
+against,Terrorblade,Mirana,0.1875
+against,Terrorblade,Natures Prophet,0.1875
+against,Terrorblade,Weaver,0.1875
+against,Terrorblade,Zeus,0.1875
+with,Terrorblade,Silencer,0.5625
+with,Terrorblade,Vengeful Spirit,0.3125
+with,Terrorblade,Earthshaker,0.25
+with,Terrorblade,Lina,0.25
+with,Terrorblade,Tiny,0.25
+against,Tidehunter,Clockwerk,1
+against,Tidehunter,Gyrocopter,1
+against,Tidehunter,Tiny,1
+against,Tidehunter,Vengeful Spirit,1
+against,Tidehunter,Windranger,1
+with,Tidehunter,Crystal Maiden,1
+with,Tidehunter,Enchantress,1
+with,Tidehunter,Storm Spirit,1
+with,Tidehunter,Troll Warlord,1
+against,Timbersaw,Tiny,0.6000000000000001
+against,Timbersaw,Bane,0.4
+against,Timbersaw,Terrorblade,0.4
+against,Timbersaw,Weaver,0.4
+against,Timbersaw,Alchemist,0.2
+against,Timbersaw,Brewmaster,0.2
+against,Timbersaw,Bristleback,0.2
+against,Timbersaw,Crystal Maiden,0.2
+against,Timbersaw,Dragon Knight,0.2
+against,Timbersaw,Earth Spirit,0.2
+against,Timbersaw,Earthshaker,0.2
+against,Timbersaw,Elder Titan,0.2
+against,Timbersaw,Gyrocopter,0.2
+against,Timbersaw,Io,0.2
+against,Timbersaw,Natures Prophet,0.2
+against,Timbersaw,Pugna,0.2
+against,Timbersaw,Silencer,0.2
+against,Timbersaw,Underlord,0.2
+against,Timbersaw,Vengeful Spirit,0.2
+against,Timbersaw,Viper,0.2
+with,Timbersaw,Vengeful Spirit,0.6000000000000001
+with,Timbersaw,Dark Willow,0.4
+with,Timbersaw,Mirana,0.4
+with,Timbersaw,Spectre,0.4
+with,Timbersaw,Clinkz,0.2
+with,Timbersaw,Crystal Maiden,0.2
+with,Timbersaw,Dragon Knight,0.2
+with,Timbersaw,Gyrocopter,0.2
+with,Timbersaw,Io,0.2
+with,Timbersaw,Lich,0.2
+with,Timbersaw,Nyx Assassin,0.2
+with,Timbersaw,Phantom Lancer,0.2
+with,Timbersaw,Shadow Demon,0.2
+with,Timbersaw,Weaver,0.2
+with,Timbersaw,Wraith King,0.2
+against,Tinker,Undying,0.6666666666666666
+against,Tinker,Weaver,0.6666666666666666
+against,Tinker,Drow Ranger,0.3333333333333333
+against,Tinker,Gyrocopter,0.3333333333333333
+against,Tinker,Huskar,0.3333333333333333
+against,Tinker,Necrophos,0.3333333333333333
+against,Tinker,Phantom Lancer,0.3333333333333333
+against,Tinker,Treant Protector,0.3333333333333333
+against,Tinker,Tusk,0.3333333333333333
+against,Tinker,Vengeful Spirit,0.3333333333333333
+against,Tinker,Windranger,0.3333333333333333
+against,Tinker,Winter Wyvern,0.3333333333333333
+against,Tinker,Zeus,0.3333333333333333
+with,Tinker,Wraith King,0.6666666666666666
+with,Tinker,Crystal Maiden,0.3333333333333333
+with,Tinker,Dark Willow,0.3333333333333333
+with,Tinker,Mirana,0.3333333333333333
+with,Tinker,Necrophos,0.3333333333333333
+with,Tinker,Ogre Magi,0.3333333333333333
+with,Tinker,Pangolier,0.3333333333333333
+with,Tinker,Pugna,0.3333333333333333
+with,Tinker,Rubick,0.3333333333333333
+with,Tinker,Tiny,0.3333333333333333
+with,Tinker,Vengeful Spirit,0.3333333333333333
+against,Tiny,Vengeful Spirit,0.3846153846153846
+against,Tiny,Mirana,0.2692307692307692
+against,Tiny,Ursa,0.21794871794871795
+against,Tiny,Necrophos,0.16666666666666669
+against,Tiny,Dark Willow,0.16666666666666666
+with,Tiny,Vengeful Spirit,0.1794871794871795
+with,Tiny,Bane,0.15384615384615385
+with,Tiny,Mirana,0.15384615384615385
+with,Tiny,Winter Wyvern,0.15384615384615385
+with,Tiny,Crystal Maiden,0.14102564102564102
+with,Tiny,Dark Willow,0.14102564102564102
+with,Tiny,Necrophos,0.14102564102564102
+against,Treant Protector,Vengeful Spirit,0.8
+against,Treant Protector,Necrophos,0.6000000000000001
+against,Treant Protector,Tiny,0.6000000000000001
+against,Treant Protector,Undying,0.6000000000000001
+against,Treant Protector,Dark Willow,0.4
+against,Treant Protector,Mirana,0.4
+against,Treant Protector,Weaver,0.4
+against,Treant Protector,Wraith King,0.4
+with,Treant Protector,Spectre,0.8
+with,Treant Protector,Weaver,0.8
+with,Treant Protector,Winter Wyvern,0.8
+with,Treant Protector,Storm Spirit,0.6000000000000001
+with,Treant Protector,Chen,0.4
+with,Treant Protector,Clinkz,0.4
+with,Treant Protector,Crystal Maiden,0.4
+with,Treant Protector,Invoker,0.4
+with,Treant Protector,Monkey King,0.4
+with,Treant Protector,Necrophos,0.4
+with,Treant Protector,Vengeful Spirit,0.4
+against,Troll Warlord,Gyrocopter,0.4
+against,Troll Warlord,Phoenix,0.4
+against,Troll Warlord,Tiny,0.4
+against,Troll Warlord,Ursa,0.4
+against,Troll Warlord,Clinkz,0.2
+against,Troll Warlord,Clockwerk,0.2
+against,Troll Warlord,Drow Ranger,0.2
+against,Troll Warlord,Earth Spirit,0.2
+against,Troll Warlord,Earthshaker,0.2
+against,Troll Warlord,Enigma,0.2
+against,Troll Warlord,Io,0.2
+against,Troll Warlord,Legion Commander,0.2
+against,Troll Warlord,Natures Prophet,0.2
+against,Troll Warlord,Ogre Magi,0.2
+against,Troll Warlord,Oracle,0.2
+against,Troll Warlord,Silencer,0.2
+against,Troll Warlord,Storm Spirit,0.2
+against,Troll Warlord,Vengeful Spirit,0.2
+against,Troll Warlord,Venomancer,0.2
+against,Troll Warlord,Weaver,0.2
+against,Troll Warlord,Windranger,0.2
+with,Troll Warlord,Crystal Maiden,0.4
+with,Troll Warlord,Storm Spirit,0.4
+with,Troll Warlord,Vengeful Spirit,0.4
+with,Troll Warlord,Batrider,0.2
+with,Troll Warlord,Centaur Warrunner,0.2
+with,Troll Warlord,Chen,0.2
+with,Troll Warlord,Clinkz,0.2
+with,Troll Warlord,Dark Willow,0.2
+with,Troll Warlord,Elder Titan,0.2
+with,Troll Warlord,Enchantress,0.2
+with,Troll Warlord,Lina,0.2
+with,Troll Warlord,Silencer,0.2
+with,Troll Warlord,Tidehunter,0.2
+with,Troll Warlord,Tiny,0.2
+with,Troll Warlord,Venomancer,0.2
+with,Troll Warlord,Winter Wyvern,0.2
+with,Troll Warlord,Wraith King,0.2
+against,Tusk,Drow Ranger,0.33333333333333337
+against,Tusk,Mirana,0.33333333333333337
+against,Tusk,Vengeful Spirit,0.3333333333333333
+against,Tusk,Clinkz,0.26666666666666666
+against,Tusk,Dark Willow,0.26666666666666666
+with,Tusk,Silencer,0.5333333333333333
+with,Tusk,Weaver,0.3333333333333333
+with,Tusk,Enchantress,0.26666666666666666
+with,Tusk,Necrophos,0.26666666666666666
+with,Tusk,Tiny,0.26666666666666666
+against,Underlord,Mirana,0.42857142857142855
+against,Underlord,Earthshaker,0.2857142857142857
+against,Underlord,Necrophos,0.2857142857142857
+against,Underlord,Shadow Demon,0.2857142857142857
+against,Underlord,Weaver,0.2857142857142857
+against,Underlord,Zeus,0.2857142857142857
+with,Underlord,Weaver,0.5714285714285714
+with,Underlord,Bane,0.2857142857142857
+with,Underlord,Dark Willow,0.2857142857142857
+with,Underlord,Tiny,0.2857142857142857
+with,Underlord,Vengeful Spirit,0.2857142857142857
+against,Undying,Tiny,0.41379310344827586
+against,Undying,Dark Willow,0.3448275862068966
+against,Undying,Wraith King,0.3103448275862069
+against,Undying,Clinkz,0.27586206896551724
+against,Undying,Silencer,0.24137931034482757
+with,Undying,Drow Ranger,0.2413793103448276
+with,Undying,Necrophos,0.2413793103448276
+with,Undying,Vengeful Spirit,0.2413793103448276
+with,Undying,Weaver,0.24137931034482757
+with,Undying,Dark Willow,0.20689655172413793
+with,Undying,Ursa,0.20689655172413793
+against,Ursa,Tiny,0.33333333333333337
+against,Ursa,Vengeful Spirit,0.29411764705882354
+against,Ursa,Dark Willow,0.19607843137254902
+against,Ursa,Necrophos,0.1764705882352941
+against,Ursa,Silencer,0.1764705882352941
+with,Ursa,Vengeful Spirit,0.19607843137254902
+with,Ursa,Mirana,0.1764705882352941
+with,Ursa,Phoenix,0.1764705882352941
+with,Ursa,Alchemist,0.1568627450980392
+with,Ursa,Crystal Maiden,0.1568627450980392
+with,Ursa,Winter Wyvern,0.1568627450980392
+against,Vengeful Spirit,Tiny,0.3448275862068966
+against,Vengeful Spirit,Winter Wyvern,0.22988505747126436
+against,Vengeful Spirit,Wraith King,0.22988505747126436
+against,Vengeful Spirit,Dark Willow,0.1839080459770115
+against,Vengeful Spirit,Crystal Maiden,0.1724137931034483
+against,Vengeful Spirit,Silencer,0.1724137931034483
+against,Vengeful Spirit,Ursa,0.1724137931034483
+with,Vengeful Spirit,Mirana,0.26436781609195403
+with,Vengeful Spirit,Weaver,0.2413793103448276
+with,Vengeful Spirit,Tiny,0.16091954022988506
+with,Vengeful Spirit,Clinkz,0.14942528735632182
+with,Vengeful Spirit,Alchemist,0.12643678160919541
+with,Vengeful Spirit,Phantom Lancer,0.12643678160919541
+against,Venomancer,Ursa,0.46153846153846156
+against,Venomancer,Earthshaker,0.38461538461538464
+against,Venomancer,Silencer,0.3076923076923077
+against,Venomancer,Storm Spirit,0.3076923076923077
+against,Venomancer,Tiny,0.3076923076923077
+with,Venomancer,Vengeful Spirit,0.3076923076923077
+with,Venomancer,Drow Ranger,0.23076923076923078
+with,Venomancer,Enchantress,0.23076923076923078
+with,Venomancer,Io,0.23076923076923078
+with,Venomancer,Alchemist,0.15384615384615385
+with,Venomancer,Bloodseeker,0.15384615384615385
+with,Venomancer,Chen,0.15384615384615385
+with,Venomancer,Lina,0.15384615384615385
+with,Venomancer,Natures Prophet,0.15384615384615385
+with,Venomancer,Ogre Magi,0.15384615384615385
+with,Venomancer,Phoenix,0.15384615384615385
+with,Venomancer,Tiny,0.15384615384615385
+with,Venomancer,Undying,0.15384615384615385
+with,Venomancer,Weaver,0.15384615384615385
+against,Viper,Spectre,2
+against,Viper,Dark Willow,1
+against,Viper,Huskar,1
+against,Viper,Lich,1
+against,Viper,Shadow Shaman,1
+against,Viper,Silencer,1
+against,Viper,Timbersaw,1
+against,Viper,Ursa,1
+against,Viper,Wraith King,1
+with,Viper,Brewmaster,1
+with,Viper,Dark Willow,1
+with,Viper,Mirana,1
+with,Viper,Natures Prophet,1
+with,Viper,Ogre Magi,1
+with,Viper,Terrorblade,1
+with,Viper,Tiny,1
+with,Viper,Vengeful Spirit,1
+against,Visage,Necrophos,0.625
+against,Visage,Alchemist,0.25
+against,Visage,Bloodseeker,0.25
+against,Visage,Dark Willow,0.25
+against,Visage,Tiny,0.25
+against,Visage,Undying,0.25
+against,Visage,Weaver,0.25
+against,Visage,Wraith King,0.25
+against,Visage,Zeus,0.25
+with,Visage,Mirana,0.375
+with,Visage,Winter Wyvern,0.375
+with,Visage,Bane,0.25
+with,Visage,Earth Spirit,0.25
+with,Visage,Enigma,0.25
+with,Visage,Vengeful Spirit,0.25
+against,Warlock,Mirana,0.6666666666666666
+against,Warlock,Dark Willow,0.3333333333333333
+against,Warlock,Drow Ranger,0.3333333333333333
+against,Warlock,Gyrocopter,0.3333333333333333
+against,Warlock,Io,0.3333333333333333
+against,Warlock,Lich,0.3333333333333333
+against,Warlock,Lina,0.3333333333333333
+against,Warlock,Lion,0.3333333333333333
+against,Warlock,Necrophos,0.3333333333333333
+against,Warlock,Rubick,0.3333333333333333
+against,Warlock,Spectre,0.3333333333333333
+against,Warlock,Undying,0.3333333333333333
+against,Warlock,Weaver,0.3333333333333333
+against,Warlock,Wraith King,0.3333333333333333
+with,Warlock,Wraith King,0.6666666666666666
+with,Warlock,Clinkz,0.3333333333333333
+with,Warlock,Dark Willow,0.3333333333333333
+with,Warlock,Kunkka,0.3333333333333333
+with,Warlock,Luna,0.3333333333333333
+with,Warlock,Monkey King,0.3333333333333333
+with,Warlock,Skywrath Mage,0.3333333333333333
+with,Warlock,Tiny,0.3333333333333333
+with,Warlock,Underlord,0.3333333333333333
+with,Warlock,Vengeful Spirit,0.3333333333333333
+with,Warlock,Weaver,0.3333333333333333
+against,Weaver,Mirana,0.3278688524590164
+against,Weaver,Wraith King,0.19672131147540983
+against,Weaver,Clinkz,0.18032786885245902
+against,Weaver,Winter Wyvern,0.180327868852459
+against,Weaver,Dark Willow,0.1639344262295082
+with,Weaver,Vengeful Spirit,0.3442622950819672
+with,Weaver,Winter Wyvern,0.180327868852459
+with,Weaver,Dark Willow,0.1639344262295082
+with,Weaver,Tiny,0.1639344262295082
+with,Weaver,Drow Ranger,0.13114754098360656
+against,Windranger,Vengeful Spirit,0.25
+against,Windranger,Crystal Maiden,0.2
+against,Windranger,Dark Willow,0.2
+against,Windranger,Enchantress,0.2
+against,Windranger,Lina,0.2
+with,Windranger,Dark Willow,0.25
+with,Windranger,Necrophos,0.2
+with,Windranger,Silencer,0.2
+with,Windranger,Tiny,0.2
+with,Windranger,Ursa,0.2
+with,Windranger,Winter Wyvern,0.2
+with,Windranger,Wraith King,0.2
+against,Winter Wyvern,Vengeful Spirit,0.37037037037037035
+against,Winter Wyvern,Mirana,0.2037037037037037
+against,Winter Wyvern,Weaver,0.2037037037037037
+against,Winter Wyvern,Dark Willow,0.18518518518518517
+against,Winter Wyvern,Silencer,0.16666666666666666
+against,Winter Wyvern,Storm Spirit,0.16666666666666666
+against,Winter Wyvern,Tiny,0.16666666666666666
+with,Winter Wyvern,Tiny,0.2222222222222222
+with,Winter Wyvern,Weaver,0.2037037037037037
+with,Winter Wyvern,Wraith King,0.2037037037037037
+with,Winter Wyvern,Clinkz,0.14814814814814814
+with,Winter Wyvern,Dark Willow,0.14814814814814814
+with,Winter Wyvern,Lina,0.14814814814814814
+with,Winter Wyvern,Mirana,0.14814814814814814
+with,Winter Wyvern,Ursa,0.14814814814814814
+against,Witch Doctor,Enchantress,0.5
+against,Witch Doctor,Mirana,0.5
+against,Witch Doctor,Alchemist,0.25
+against,Witch Doctor,Dark Willow,0.25
+against,Witch Doctor,Drow Ranger,0.25
+against,Witch Doctor,Earthshaker,0.25
+against,Witch Doctor,Gyrocopter,0.25
+against,Witch Doctor,Io,0.25
+against,Witch Doctor,Lion,0.25
+against,Witch Doctor,Necrophos,0.25
+against,Witch Doctor,Pugna,0.25
+against,Witch Doctor,Silencer,0.25
+against,Witch Doctor,Templar Assassin,0.25
+against,Witch Doctor,Tiny,0.25
+against,Witch Doctor,Tusk,0.25
+against,Witch Doctor,Ursa,0.25
+against,Witch Doctor,Vengeful Spirit,0.25
+against,Witch Doctor,Wraith King,0.25
+with,Witch Doctor,Drow Ranger,0.5
+with,Witch Doctor,Crystal Maiden,0.25
+with,Witch Doctor,Dark Willow,0.25
+with,Witch Doctor,Dragon Knight,0.25
+with,Witch Doctor,Enchantress,0.25
+with,Witch Doctor,Huskar,0.25
+with,Witch Doctor,Lycan,0.25
+with,Witch Doctor,Necrophos,0.25
+with,Witch Doctor,Pangolier,0.25
+with,Witch Doctor,Storm Spirit,0.25
+with,Witch Doctor,Tusk,0.25
+with,Witch Doctor,Ursa,0.25
+with,Witch Doctor,Vengeful Spirit,0.25
+with,Witch Doctor,Weaver,0.25
+with,Witch Doctor,Winter Wyvern,0.25
+against,Wraith King,Vengeful Spirit,0.3125
+against,Wraith King,Clinkz,0.28125
+against,Wraith King,Mirana,0.234375
+against,Wraith King,Earthshaker,0.203125
+against,Wraith King,Silencer,0.203125
+with,Wraith King,Dark Willow,0.40625
+with,Wraith King,Mirana,0.203125
+with,Wraith King,Necrophos,0.171875
+with,Wraith King,Winter Wyvern,0.171875
+with,Wraith King,Tiny,0.140625
+against,Zeus,Weaver,0.38461538461538464
+against,Zeus,Winter Wyvern,0.38461538461538464
+against,Zeus,Earthshaker,0.3076923076923077
+against,Zeus,Silencer,0.3076923076923077
+against,Zeus,Lina,0.23076923076923078
+against,Zeus,Terrorblade,0.23076923076923078
+against,Zeus,Vengeful Spirit,0.23076923076923078
+with,Zeus,Chen,0.3076923076923077
+with,Zeus,Weaver,0.3076923076923077
+with,Zeus,Bloodseeker,0.23076923076923078
+with,Zeus,Rubick,0.23076923076923078
+with,Zeus,Spectre,0.23076923076923078
+with,Zeus,Wraith King,0.23076923076923078
