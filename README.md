@@ -23,17 +23,17 @@ Before starting extracting the data we are interested in, we should decide on th
 | game-id | name-1    |   Win    | Radiant | Yes               | pick      | 7          |
 | game-id | name-2    |   Loss   |   Dire  | No                | ban       | 2          |
 
-⋅⋅* Game - a unique game id to be able to identify separate games
-⋅⋅* Character - a unique character name to identify the character
-⋅⋅* Win\Loss - whether the team that picked or banned this hero won or lost
-⋅⋅* Side - which side of the map (known as the Radiant or the Dire) the team that picked or banned this hero played on
-⋅⋅* First pick status – whether the team that picked or banned this hero was the one that had the first pick during the drafting phase
-⋅⋅* Pick Type - whether this was a pick or a ban
-⋅⋅* Pick Order - what is the absolute order of this pick or ban in the sequence of picks and bans during the game
+  * Game - a unique game id to be able to identify separate games
+  * Character - a unique character name to identify the character
+  * Win\Loss - whether the team that picked or banned this hero won or lost
+  * Side - which side of the map (known as the Radiant or the Dire) the team that picked or banned this hero played on
+  * First pick status – whether the team that picked or banned this hero was the one that had the first pick during the drafting phase
+  * Pick Type - whether this was a pick or a ban
+  * Pick Order - what is the absolute order of this pick or ban in the sequence of picks and bans during the game
 
 Let us explore the way this data is stored on dotabuff. Every series of games between two teams has its own page, with data on each single game presented in the table form shown below.
 
-![alt text](https://github.com/bnvl/shiny_dota_dashboard/misc/page_sample.jpg "dotabuff game information")
+![alt text](https://github.com/bnvl/shiny_dota_dashboard/blob/master/misc/page_sample.JPG "dotabuff game information")
 
 As you can see, table with the game data already has all the information that we require. Picks are the bigger colored images, bans – the smaller grayscale images, pick order is available as mouse over tooltip. We also have information about game id, which side the team played on, whether the team played first and who was the winner of the game. 
 
