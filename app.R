@@ -18,6 +18,7 @@ library(dplyr)
 library(scales)
 library(grid)
 library(gridExtra)
+library(ggpubr)
 library(forcats)
 
 # load in  our datasets and ttransform applicable data to factors
@@ -294,7 +295,8 @@ server <- function(input, output) {
       paste('Top', input$top_n, ifelse(input$pick_selector == "pick", 'picked', 'banned'), 'heroes during TI8 by amount of games and', tolower(input$g_filter_selector)),
       x = unit(0, "lines"), 
       y = unit(0, "lines"),
-      hjust = 0, vjust = 0,
+      hjust = -0.01, 
+      vjust = 0,
       gp = gpar(fontsize = 14))
     
     arrangeGrob(general_plot(), top = title) 
@@ -306,7 +308,7 @@ server <- function(input, output) {
   
   output$gplot_download <- downloadHandler(
     filename = function() {paste('plot_general_TI8_top', input$top_n, ifelse(input$pick_selector == "pick", 'picked', 'banned'),'.pdf', sep = "_")},
-    content = function(file) {ggsave(file, plot = general_plot_grid())})
+    content = function(file) {ggsave(file, plot = general_plot_grid(), device = 'pdf', width = 8.5, height = 11)})
   
   # Creating reactive variables for the hero tab
   
@@ -433,7 +435,7 @@ server <- function(input, output) {
   
   output$hplot_download <- downloadHandler(
     filename = function() {paste('plot_', input$hero_selector, '_TI8_pick_ban_data.pdf', sep = "")},
-    content = function(file) {ggsave(file, plot = marrangeGrob(grob = list(hero_plot_pick(), hero_plot_ban()), nrow = 1, ncol = 1))})
+    content = function(file) {ggexport(ggarrange(plotlist = list(hero_plot_pick(), hero_plot_ban()), nrow = 1, ncol = 1), filename = file, width = 11, height = 8.5)})
   
   output$winpct_vb <- renderValueBox({
     valueBox(ifelse(!is.null(hero_winpct()$win_perc), percent(round(hero_winpct()$win_perc, 3)), "0"), 
